@@ -1,6 +1,6 @@
 package strategyppb;
 
-public interface Alugel {
+public interface Aluguel {
     public String Descricao(String tipoAluguel);
 }
 
